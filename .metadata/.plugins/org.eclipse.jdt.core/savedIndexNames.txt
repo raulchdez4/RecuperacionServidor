@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\daw2102\Desktop\RECUPERACION SERVIDOR\.metadata\.plugins\org.eclipse.jdt.core
+3659018352.index
+1865797976.index
+3535695832.index
